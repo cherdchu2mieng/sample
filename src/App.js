@@ -11,7 +11,7 @@ const App = () => {
 
   const newProjectSteps = [
     {
-      title: "1. Create Local (สร้างโปรเจกต์)",
+      title: "1. Create Local (สร้างโปรเจกต์)ppppp",
       icon: <PlusSquare className="w-8 h-8 text-indigo-500" />,
       description: "เริ่มต้นสร้างโฟลเดอร์งานในเครื่องคอมพิวเตอร์ของคุณเองด้วยคำสั่งสร้างโปรเจกต์อัตโนมัติ",
       command: "npx create-react-app my-app\ncd my-app",
